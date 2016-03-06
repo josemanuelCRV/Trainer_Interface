@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trainer</string>
+    <string name="title_login">Login Trainer</string>
+    <string name="text_user_hint">Username</string>
+    <string name="text_pass_hint">Password</string>
+    <string name="button_login">Login</string>
+    <string name="action_settings">Action 1</string>
+    <string name="action_buscar">Action 2</string>
+
+</resources>
